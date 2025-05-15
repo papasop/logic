@@ -23,7 +23,7 @@ This system implements and validates the full feedback loop of a spectral logic 
 
 | File | Description |
 |------|-------------|
-| `spectral_logic_system_v3.py` | Main Python module: self-contained simulation and plotting |
+| `gate.py` | Main Python module: self-contained simulation and plotting |
 | `README.md` | This documentation |
 | *(Optional)* `figures/` | Output plots (entropy curves, cluster maps) |
 | *(Optional)* `data/` | Stored results for batch experiments |
